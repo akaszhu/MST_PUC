@@ -5,7 +5,6 @@ import streamlit as st
 import openai
 from openai import OpenAI
 import matplotlib.pyplot as plt
-import cv2
 import easyocr
 from pylab import rcParams
 from IPython.display import Image

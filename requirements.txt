@@ -5,6 +5,5 @@ openai
 matplotlib
 opencv-python-headless
 easyocr
-cv2
 PIL
 python-dotenv

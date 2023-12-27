@@ -5,12 +5,8 @@
 import streamlit as st
 from openai import OpenAI
 import matplotlib.pyplot as plt
-import cv2
 import easyocr
 import os
-from pylab import rcParams
-from IPython.display import Image
-rcParams['figure.figsize'] = 8, 16
 from dotenv import load_dotenv
 load_dotenv()
 API_KEY =  os.getenv('API_KEY')
