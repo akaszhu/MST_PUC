@@ -7,7 +7,6 @@ from openai import OpenAI
 import matplotlib.pyplot as plt
 import easyocr
 from pylab import rcParams
-from IPython.display import Image
 rcParams['figure.figsize'] = 8, 16
 from dotenv import load_dotenv
 load_dotenv()
